@@ -1,3 +1,7 @@
+Site Deployment: https://youtube-clone-4183.netlify.app/
+
+This is a youtube clone application made using reactJS and Material UI with the help of YouTube v3 RapidAPI.
+It consists of video sections, channel pages, custom categories and can play videos directly from youtube clone app. 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Made from https://www.youtube.com/watch?v=FHTbsZEJspU

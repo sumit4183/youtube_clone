@@ -8,6 +8,7 @@ import { Videos } from './';
 import { fetchFromAPI } from '../utils/fetchFromAPI';
 
 const VideoDetail = () => {
+
   const [videoDetail, setVideoDetail] = useState(null);
   const [videos, setVideos] = useState(null)
   const { id } = useParams();
@@ -58,7 +59,7 @@ const VideoDetail = () => {
 
       
     </Box>
-  )
-}
+  );
+};
 
 export default VideoDetail
